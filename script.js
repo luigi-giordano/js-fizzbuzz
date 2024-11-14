@@ -6,7 +6,7 @@ for (let i = 1; i<=100; i++){
   else if (!(i % 5)){
     parola = 'Buzz';
   }
-  else if (!(i % 3)){
+  else if (!(i % 3) ){
     parola = 'Fizz';
   }else{
     parola = i;
